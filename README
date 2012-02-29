@@ -1,0 +1,14 @@
+ideaTabs
+simple jquery tabs navigation:
+
+<div id="tabs">
+  <ul>
+    <li>tab 1</li>
+    <li>tab 2</li>
+    <li>tab 3</li>
+  </ul>
+  <section>tab 1 content</section>
+  <section>tab 2 content</section>
+  <section>tab 3 content</section>
+</div>
+
